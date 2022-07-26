@@ -4,9 +4,8 @@ Hi 👋 My name is Guilherme Payão
 Full-Stack Developer
 --------------------
 
-* 🌍  I'm based in São Paulo
+* 🌍  I'm based in São José dos Campos - São Paulo
 * ✉️  You can contact me at [guilhermepayao.dev@gmail.com](mailto:guilhermepayao.dev@gmail.com)
-* 🧠  I'm learning PHP
 
 ### Skills
 
